@@ -1,0 +1,7 @@
+{
+  "name": "leaflet.markercluster.freezable",
+  "version": "0.1.0",
+  "main": "leaflet.markercluster.freezable-src.js",
+  "author": "ghybs",
+  "license": "MIT"
+}
